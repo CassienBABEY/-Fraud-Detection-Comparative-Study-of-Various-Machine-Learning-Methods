@@ -46,7 +46,7 @@ To successfully run the experiments and notebooks provided in this repository, t
 - `pandas`: For data manipulation and analysis.
 - `matplotlib`: For creating visualizations and plots.
 - `scikit-learn` (often imported as `sklearn`): For machine learning and ensemble techniques.
-- `scipy`: For additional scientific computing capabilities.
+- `xgboost`: For using XGBoost model
 - `jupyter`: For running and viewing the `.ipynb` notebook files.
 
 To install all the required packages, you can use the following pip command:
