@@ -1,0 +1,5 @@
+Dataset,AdaBoost Classifier,Bagging (Logistic Regression),Logistic Regression,Random Forest Classifier,SVC,Stacking Classifier,XGBoost Classifier
+Dataset_0,0.38 ± 0.00,0.04 ± 0.01,0.00 ± 0.00,0.39 ± 0.01,6.38 ± 0.16,6.55 ± 0.18,0.02 ± 0.00
+Dataset_1,0.38 ± 0.01,0.05 ± 0.01,0.00 ± 0.00,0.39 ± 0.00,6.35 ± 0.29,6.46 ± 0.09,0.02 ± 0.00
+Dataset_2,0.38 ± 0.00,0.04 ± 0.02,0.00 ± 0.00,0.39 ± 0.01,6.17 ± 0.19,6.41 ± 0.20,0.02 ± 0.00
+Dataset_3,0.37 ± 0.01,0.04 ± 0.02,0.01 ± 0.00,0.39 ± 0.01,6.09 ± 0.06,6.39 ± 0.25,0.02 ± 0.00

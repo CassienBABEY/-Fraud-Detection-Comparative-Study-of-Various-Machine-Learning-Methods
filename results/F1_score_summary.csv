@@ -1,0 +1,29 @@
+,Dataset,Model,Model (F1 Score Mean),Model (F1 Score Std)
+0,X_train_0,AdaBoost Classifier,0.637546468401487,0.0
+1,X_train_0,Bagging (Logistic Regression),0.5574102175012645,0.0
+2,X_train_0,Logistic Regression,0.5553869499241275,0.0
+3,X_train_0,Random Forest Classifier,0.7534262319983439,0.0011899386283943823
+4,X_train_0,SVC,0.22503328894806923,0.0
+5,X_train_0,Stacking Classifier,0.4395604395604396,0.0
+6,X_train_0,XGBoost Classifier,0.7869529314616021,0.0
+7,X_train_1,AdaBoost Classifier,0.6346067415730337,0.0
+8,X_train_1,Bagging (Logistic Regression),0.5504854368932038,0.0
+9,X_train_1,Logistic Regression,0.5475728155339806,0.0
+10,X_train_1,Random Forest Classifier,0.7358924327990687,0.0025240587978081538
+11,X_train_1,SVC,0.2152641878669276,0.0
+12,X_train_1,Stacking Classifier,0.4415300546448087,0.0
+13,X_train_1,XGBoost Classifier,0.7754601226993866,0.0
+14,X_train_2,AdaBoost Classifier,0.6039076376554174,0.0
+15,X_train_2,Bagging (Logistic Regression),0.5235032162295893,0.0
+16,X_train_2,Logistic Regression,0.5220406141654285,0.0
+17,X_train_2,Random Forest Classifier,0.737827353382128,0.0033556305933401336
+18,X_train_2,SVC,0.19859961807765752,0.0
+19,X_train_2,Stacking Classifier,0.44360618634477567,0.0
+20,X_train_2,XGBoost Classifier,0.7727815360127338,0.0
+21,X_train_3,AdaBoost Classifier,0.6071741032370954,0.0
+22,X_train_3,Bagging (Logistic Regression),0.5349952061361457,0.0
+23,X_train_3,Logistic Regression,0.5380564863571087,0.0
+24,X_train_3,Random Forest Classifier,0.7403147759302149,0.0028762452730176197
+25,X_train_3,SVC,0.20554854981084486,0.0
+26,X_train_3,Stacking Classifier,0.45199850579006356,0.0
+27,X_train_3,XGBoost Classifier,0.7927999999999998,0.0
