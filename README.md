@@ -51,9 +51,9 @@ To successfully run the experiments and notebooks provided in this repository, t
 
 To install all the required packages, you can use the following pip command:
 
-\```bash
-pip install numpy pandas matplotlib scikit-learn scipy jupyter
-\```
+```bash
+pip install numpy pandas matplotlib scikit-learn xgboost jupyter
+```
 
 ## Data link
 
